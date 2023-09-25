@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=GameSpy Arcade
+Exec=env WINEPREFIX="/home/kefason/.wine" wine C:\\\\PROG\\~5P2\\\\GAME\\~4KZ\\\\Aphex.exe 
+Type=Application
+StartupNotify=true
+Path=/home/kefason/.wine/dosdevices/c:/Program Files (x86)/GameSpy Arcade
+Icon=779F_Aphex.0
+StartupWMClass=aphex.exe

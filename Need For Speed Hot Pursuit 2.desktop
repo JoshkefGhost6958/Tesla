@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Need For Speed Hot Pursuit 2
+Exec=env WINEPREFIX="/home/kefason/.wine" wine C:\\\\users\\\\Public\\\\Desktop\\\\Need\\ For\\ Speed\\ Hot\\ Pursuit\\ 2.lnk
+Type=Application
+StartupNotify=true
+Path=/home/kefason/.wine/dosdevices/c:/Program Files (x86)/EA Games/Need For Speed Hot Pursuit 2
+Icon=A047_NFSHP2.0
+StartupWMClass=nfshp2.exe
